@@ -18,8 +18,8 @@ This repository contains the lab work of the course CSE 4204 (Sessional of Neura
 |         Nearest Neighbor Algorithm        |  Yes |   Yes  |
 | Single Layer Perceptron Learning Alogrihm |  Yes |   Yes  |
 |  Multi Layer Perceptron Learning Alogrihm |  Yes |   Yes  |
-|  Kohonen Self-Organizing Neural Network Algorithm |  No |   No  |
-|  Hopfield Neural Network Algorithm|  No |   No  |
+|  Kohonen Self-Organizing Neural Network Algorithm |  Yes |   Yes  |
+|  Hopfield Neural Network Algorithm|  Yes |   Yes  |
 
 The available "Assets" files contains the figures and results that used in the final report.
 
