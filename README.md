@@ -13,13 +13,13 @@ Email: kaziamithasan89@gmail.com
 
 This repository contains the lab work of the course CSE 4204 (Sessional of Neural Networks and Fuzzy Systems). 
 
-|           Implemented Algorithm           | Code | Report |
+|           Implemented algorithm           | Code | Report |
 |:-----------------------------------------:|:----:|:------:|
-|         Nearest Neighbor Algorithm        |  Yes |   Yes  |
-| Single Layer Perceptron Learning Alogrihm |  Yes |   Yes  |
-|  Multi Layer Perceptron Learning Alogrihm |  Yes |   Yes  |
-|  Kohonen Self-Organizing Neural Network Algorithm |  Yes |   Yes  |
-|  Hopfield Neural Network Algorithm|  Yes |   Yes  |
+|         Nearest Neighbor algorithm        |  Yes |   Yes  |
+| Single Layer Perceptron Learning algorithm |  Yes |   Yes  |
+|  Multi Layer Perceptron Learning algorithm |  Yes |   Yes  |
+|  Kohonen Self-Organizing Neural Network algorithm |  Yes |   Yes  |
+|  Hopfield Neural Network algorithm|  Yes |   Yes  |
 
 The available "Assets" files contains the figures and results that used in the final report.
 
