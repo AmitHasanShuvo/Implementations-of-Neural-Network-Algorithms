@@ -15,6 +15,7 @@ venv/
 env/
 data/
 .DS_Store/
+.pdf/
 .ipynb_checkpoints/
 
 
@@ -36,6 +37,7 @@ data/
 *.DS_Store
 *.pdf
 *.xlsx
+*.DS_Store
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
